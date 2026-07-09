@@ -1,6 +1,8 @@
 #include<stdio.h>
 
 int main(){
-    printf("Hello World");
+    int a; //variable declaration
+    a=6; //variable initialization
+    printf("%d",a);
     return 0;
 }
